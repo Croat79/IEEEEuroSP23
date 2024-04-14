@@ -10,7 +10,7 @@ fastapi==0.72.0
 matplotlib==3.3.1
 toml==0.10.2
 seqeval==1.2.2
-transformers==4.15.0
+transformers==4.38.0
 sudachipy
 tensorboard
 torch
