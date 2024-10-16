@@ -14,3 +14,4 @@ transformers==4.15.0
 sudachipy
 tensorboard
 torch
+starlette>=0.40.0 # not directly required, pinned by Snyk to avoid a vulnerability
