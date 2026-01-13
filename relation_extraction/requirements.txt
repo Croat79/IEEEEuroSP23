@@ -1,4 +1,6 @@
-torch==1.4.0
+torch==2.9.0
 numpy==1.18.3
 scikit_learn==0.21.3
 transformers==v3.1.0
+filelock>=3.20.3 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
